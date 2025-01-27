@@ -14,7 +14,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3.0.0
         with:
-          github_user_name: <username-anda> # Ganti dengan username GitHub Anda
+          github_user_name: bayu613 # Ganti dengan username GitHub Anda
           outputs: |
             snake.svg?palette=github-dark&color_snake=blue
 
