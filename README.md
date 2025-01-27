@@ -1,8 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Bayu Ardi Setyawan Putra</h1>
 <h3 align="center">I'm Student from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu613&label=Profile%20views&color=0e75b6&style=flat" alt="bayu613" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu613&label=Profile%20views&color=000000&style=plastic" alt="bayu613" /> </p>
 
 - 🌱 I’m currently learning **Laravel,CodeIgniter**
 
@@ -13,11 +12,6 @@
 - ⚡ Fun fact **I think Iam Handsome**
 
 <h3 align="left">Connect with me:</h3>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bayu613&" alt="bayu613" /></p>
-
-
 <p align="left">
 </p>
 
@@ -26,7 +20,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bayu613&show_icons=true&locale=en&layout=compact" alt="bayu613" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bayu613&show_icons=true&locale=en" alt="bayu613" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bayu613&show_icons=true&hide_border=true&locale=en" alt="bayu613" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bayu613&theme=dark" alt="bayu613" /></p>
 
 
 ![snake gif](https://github.com/bayu613/bayu613/blob/output/github-snake-dark.svg)
