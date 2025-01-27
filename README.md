@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Bayu Ardi Setyawan Putra</h1>
-<h3 align="center">I'm Student from Indonesia</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bayu613.bayu613" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu613&label=Profile%20views&color=c0b9b9&style=flat" alt="bayu613" /> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bayu+Ardi+Setyawan+Putra!;" />
+</h1>
+
+<h3 align="center">I'm Student form Indonesia</h3>
+
+<br/>
 
 - 🌱 I’m currently learning **Laravel,CodeIgniter**
 
