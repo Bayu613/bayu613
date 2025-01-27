@@ -47,6 +47,7 @@
 
 ![snake gif](https://github.com/bayu613/bayu613/blob/output/github-snake-dark.svg)
 
+<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
