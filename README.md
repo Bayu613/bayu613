@@ -1,2 +1,1 @@
-### 🐍 Ular Kontribusi
-![Snake animation](https://github.com/bayu613/bayu613/blob/output/snake.svg)
+![snake gif](https://github.com/bayu6113/bayu613/blob/output/github-snake-dark.svg)
