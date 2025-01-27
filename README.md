@@ -7,7 +7,8 @@
 <h3 align="center">I'm Student form Indonesia</h3>
 
 <br/>
-
+<div align="center">
+    
 - 🌱 I’m currently learning **Laravel,CodeIgniter**
 
 - 💬 Ask me about **my Project**
@@ -15,6 +16,7 @@
 - 📫 How to reach me **bayuardi835@gmail.com**
 
 - ⚡ Fun fact **I think Iam Handsome**
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
