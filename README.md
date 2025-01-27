@@ -9,13 +9,13 @@
 <br/>
 <div align="center">
     
-- 🌱 I’m currently learning **Laravel,CodeIgniter**
+ 🌱 I’m currently learning **Laravel,CodeIgniter**
 
-- 💬 Ask me about **my Project**
+ 📫 How to reach me **bayuardi835@gmail.com**
 
-- 📫 How to reach me **bayuardi835@gmail.com**
+ 💬 Ask me about **my Project**
 
-- ⚡ Fun fact **I think Iam Handsome**
+ ⚡ Fun fact **I think Iam Handsome**
 </div>
 
 <h3 align="left">Connect with me:</h3>
