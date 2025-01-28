@@ -14,11 +14,12 @@
  📫 How to reach me **bayuardi835@gmail.com**
 
  💬 Ask me about **my Project**
+ 
 
  ⚡ Fun fact **I think Iam Handsome**
 </div>
 <div align="center"> 
-  <a href="[mailto:bayu.ardi.835@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=VpCqJPtNKFXVwqvfjvRKnffwWrVSwrdPbmcPRQSTRFGjdPNZsRgzbchXSDJfMnNXvFSkFBV)">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=VpCqJPtNKFXVwqvfjvRKnffwWrVSwrdPbmcPRQSTRFGjdPNZsRgzbchXSDJfMnNXvFSkFBV">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.instagram.com/bayoouuw/" target="_blank">
