@@ -16,7 +16,7 @@
  💬 Ask me about **my Project**
  
 
- ⚡ Fun fact **I think Iam Handsome**
+ ⚡ Fun fact **Iam Handsome**
 </div>
 <div align="center"> 
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=VpCqJPtNKFXVwqvfjvRKnffwWrVSwrdPbmcPRQSTRFGjdPNZsRgzbchXSDJfMnNXvFSkFBV">
