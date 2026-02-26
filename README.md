@@ -12,13 +12,6 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bayu613&show_icons=true&theme=dark&locale=en&layout=compact" alt="bayu613" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bayu613&show_icons=true&theme=dark&locale=en" alt="bayu613" /></p>
-</div>
 
 <br/><br/>
 
