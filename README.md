@@ -6,14 +6,6 @@
 
 <h3 align="center">I'm Student form Indonesia</h3>
 
-<br/>
-
- <hr/>
-
-
-<br/>
-
-<hr/>
 
 
 ![snake gif](https://github.com/bayu613/bayu613/blob/output/github-snake-dark.svg)
