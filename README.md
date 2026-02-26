@@ -7,28 +7,6 @@
 <h3 align="center">I'm Student form Indonesia</h3>
 
 <br/>
-<div align="center">
-    
- 🌱 I’m currently learning **Laravel,CodeIgniter**
-
- 📫 How to reach me **bayuardi835@gmail.com**
-
- 💬 Ask me about **my Project**
- 
-
- ⚡ Fun fact **Iam Handsome**
-</div>
-<div align="center"> 
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=VpCqJPtNKFXVwqvfjvRKnffwWrVSwrdPbmcPRQSTRFGjdPNZsRgzbchXSDJfMnNXvFSkFBV">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.instagram.com/bayoouuw/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://bayu613.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
-</div>
 
  <hr/>
  
