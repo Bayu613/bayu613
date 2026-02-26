@@ -9,20 +9,12 @@
 <br/>
 
  <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=github" />
-<!--     <img src="https://skillicons.dev/icons?i=python,mysql,laravel,postman,php,sqlite,gmail" /><br> -->
-</div>
+
 
 <br/>
 
 <hr/>
 
-
-<h2>🐍 My Contributions 🐍</h2>
 
 ![snake gif](https://github.com/bayu613/bayu613/blob/output/github-snake-dark.svg)
 
