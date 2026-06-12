@@ -1,35 +1,29 @@
-
 name: Metrics
 on:
-  # Schedule otomatis berjalan setiap jam 12 malam
   schedule: [{cron: "0 0 * * *"}]
-  # Jalankan otomatis setiap kali kamu push ke repo ini
   push: {branches: ["master", "main"]}
-  # Mengizinkan kamu menjalankan manual via tombol di tab Actions
   workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # Ini memaksa action agar punya akses write
     steps:
       - name: Generate Cyber Dark Metrics
         uses: lowlighter/metrics@latest
         with:
-          # Gunakan token yang sudah kita simpan di secrets tadi
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Konfigurasi Dasar
-          user: Bayu613 # Ganti dengan username GitHub kamu
+          user: Bayu613
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Jakarta
+          theme: terminal
+          palette: prussian
           
-          # Desain & Tema (Sangat cocok untuk dark/cyber theme)
-          theme: terminal # Pilihan tema keren lainnya: dark, twilight, ryu
-          palette: prussian # Menggunakan aksen warna biru-cyan yang bersih
+          # Tambahkan 2 baris ini di paling bawah untuk memaksa output masuk ke branch utama kamu
+          filename: github-metrics.svg
+          committer_branch: main # Sesuai dengan branch di screenshot kamu (main)
 
-          # Plugin Tambahan (Opsional, hapus jika tidak ingin dipakai)
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
