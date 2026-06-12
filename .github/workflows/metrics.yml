@@ -20,7 +20,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Konfigurasi Dasar
-          user: YOUR_GITHUB_USERNAME # Ganti dengan username GitHub kamu
+          user: Bayu613 # Ganti dengan username GitHub kamu
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Jakarta
